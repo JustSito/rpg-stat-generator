@@ -7,7 +7,7 @@ A small Python project where I experiment with RPG-style character stats. Enter 
 
 ## Logic
 
--Enter a character name
+- Enter a character name
 - Choose values for Strength, Intelligence, and Charisma
 - See the stats displayed as RPG-style bars
 - Runs in the terminal
